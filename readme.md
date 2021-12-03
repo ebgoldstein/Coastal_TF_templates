@@ -1,7 +1,8 @@
-## Templates for Tensorflow projects
+## Templates for coastal ML projects using TensorFlow
 
-Mostly useful for prototyping.
+Being built for teaching and for prototyping.
 
+*more details soon...*
 
 these can be used in Google colab:
 
